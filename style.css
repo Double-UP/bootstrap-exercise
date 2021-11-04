@@ -20,6 +20,10 @@ div#navmenu .nav-link:hover {
   border-radius: 10px;
 }
 
+.link-icon {
+  cursor: pointer;
+}
+
 @media (max-width: 768px) {
   iframe#google-map {
     display: none;
